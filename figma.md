@@ -1,5 +1,5 @@
 # Figma 정리
-<img src="메뉴.jpg">https://github.com/soyoung7036/Figma/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%ED%8F%B4%EB%8D%94/%EC%A0%95%EB%A0%AC.jpg img\대지.jpg 대지크기는 보통 아이폰 11pro로 하는게 좋다   
+<img src="img\대지.jpg"> 대지크기는 보통 아이폰 11pro로 하는게 좋다   
 <img src="메뉴.jpg">   
 순서대로 대지,도형,펜,텍스트,화면이동,코멘트다는거   
 텍스트는 14정도로 많이 사용   
