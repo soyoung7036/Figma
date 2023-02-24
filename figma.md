@@ -27,3 +27,4 @@ margin:프레임과 전체 컬럼간의 좌우여백
 gutter:컬럼과 컬럼사이의 여백을 의미   
 Grid Calculator : http://gridcalculator.dk/   
 <img src="이미지폴더\확대.jpg">   
+atl키는 중심에서그리기 shift는 정사각형 정원으로 그리기   
