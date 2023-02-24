@@ -17,5 +17,8 @@ inner shadow
 drop shadow   
 레이어블러   
 백그라운드 블러   
-이렇게 효과도 있음
-
+이렇게 효과도 있음   
+   
+   
+   
+ctrl+/하면 메뉴검색
