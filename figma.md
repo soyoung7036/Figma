@@ -21,7 +21,7 @@ drop shadow
    
    
    
-ctrl+/하면 메뉴검색
+ctrl+/하면 메뉴검색   
 <img src="이미지폴더\피그마필수단축키.jpg">   
 margin:프레임과 전체 컬럼간의 좌우여백   
 gutter:컬럼과 컬럼사이의 여백을 의미   
